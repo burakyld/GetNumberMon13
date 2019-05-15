@@ -8,6 +8,7 @@ public class Mon13 {
 		System.out.println("Bir sayi girin");
 		int sayi = scan.nextInt();
 		System.out.println(sayi);
+		// 1. değişiklik
 
 	}
 
